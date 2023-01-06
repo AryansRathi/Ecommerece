@@ -1,18 +1,18 @@
-**Computer Vision[**](#Computer-Vision)**
+**Computer Vision[**](#Computer-Vision)
 
-**Jacobs University Bremen[**](#Jacobs-University-Bremen)**
+**Jacobs University Bremen[**](#Jacobs-University-Bremen)
 
-**Fall 2022[**](#Fall-2022)**
+**Fall 2022[**](#Fall-2022)
 
-**Homework 2[**](#Homework-2)**
+**Homework 2[**](#Homework-2)
 
-*This notebook includes both coding and written questions. Please hand in this notebook file with all the outputs and your answers to the written questions.*
+*This notebook includes both coding and written questions. Please hand in this notebook file with all the outputs and your answers to the written questions.
 
 This assignment covers linear filters, convolution and correlation.
 
 In [1]:
 
-*# Setup*
+*# Setup
 
 **import** **numpy** **as** **np**
 
