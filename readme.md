@@ -1,6 +1,6 @@
-**Computer Vision[**](#Computer-Vision)
+## Computer Vision[**](#Computer-Vision)
 
-**Jacobs University Bremen[**](#Jacobs-University-Bremen)
+## Jacobs University Bremen[**](#Jacobs-University-Bremen)
 
 **Fall 2022[**](#Fall-2022)
 
